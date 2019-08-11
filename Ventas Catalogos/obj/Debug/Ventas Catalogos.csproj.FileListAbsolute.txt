@@ -1,0 +1,36 @@
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.exe.config
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.exe
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.pdb
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.csprojResolveAssemblyReference.cache
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\GUI.Login.resources
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.Properties.Resources.resources
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.csproj.GenerateResource.Cache
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.exe
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.pdb
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\bin\Debug\Npgsql.dll
+c:\users\tima\documents\visual studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmMenu.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmCliente.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmArticulo.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmMarcaArt.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmCategoria.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmFactura.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmProvedor.resources
+C:\Users\Tima\Documents\Visual Studio 2015\Projects\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmhBuscarFact.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.exe.config
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.exe
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.pdb
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.exe
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\bin\Debug\Ventas Catalogos.pdb
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\bin\Debug\Npgsql.dll
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.csprojResolveAssemblyReference.cache
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmArticulo.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmCategoria.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmCliente.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmFactura.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmhBuscarFact.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmMarcaArt.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmMenu.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.GUI.frmProvedor.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\GUI.Login.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas_Catalogos.Properties.Resources.resources
+I:\Universidad\Proyecto Ventas\Ventas Catalogosv19082016v2\Ventas Catalogos\Ventas Catalogos\obj\Debug\Ventas Catalogos.csproj.GenerateResource.Cache

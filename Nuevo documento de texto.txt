@@ -1,0 +1,71 @@
+M6272639
+
+tamaño frame 454; 420
+	2080
+
+//************************************************
+FORO DE bd CONSULTAS JOOIN
+http://www.devjoker.com/contenidos/catss/17/Consultas-combinadas-JOINS.aspx
+
+
+cargar combos con indices
+
+ comboBox1.DataSource = dbo.CargarDimensiones();
+
+    for (int i = 0; i < comboBox1.Items.Count; i++)
+                    {
+                        if (((Dimension)comboBox1.Items[i]).Id_Dimension == Participante.Dimension.Id_Dimension)
+                        {
+                            comboBox1.SelectedIndex = i;
+                        }
+                    }
+
+enviar pedidos al email
+
+formato en colones
+
+public int CurrencyDecimalDigits { get; set; }
+
+NumberFormatInfo nfi = new CultureInfo("es-CR", false).NumberFormat;
+
+prpubli = Int32.Parse(txtCosto.Text);
+
+
+                txtPrecioPub.Text = (prpubli.ToString("C", nfi));
+
+
+///**** validar codigos repetidos
+bool existe = false;
+
+if (dgCodigo.RowCount == 0)
+                 {
+                     Validaciones.EnlazarPedidos(Convert.ToInt32(txtCodigo.Text), Convert.ToInt32(txtFactura2.Text), dgCodigo);
+                     this.dgCodigo.Columns["Id_Pedido"].Visible = false;
+                     this.dgCodigo.Columns["Numero_Factura"].Visible = false;
+                     
+                 }
+                 else
+                 {
+                     foreach (DataGridViewRow row in dgCodigo.Rows)
+                     {
+                         //string codigo = Convert.ToString(row.Cells["Codigo"].Value);
+
+                         if (Convert.ToString(row.Cells["Codigo"].Value)  == txtCodigo.Text)
+                         {
+                             existe = true;
+                         }
+
+                     }
+
+                     if (existe == true)
+                     {
+                         MessageBox.Show("Ese codigo de barras ya esta seleccionado", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                         txtCodigo.Text = "";
+                         //dgCodigo.EndEdit();
+                     }
+                     else
+                     {
+                         Validaciones.EnlazarPedidos(Convert.ToInt32(txtCodigo.Text), Convert.ToInt32(txtFactura2.Text), dgCodigo);
+                         this.dgCodigo.Columns["Id_Pedido"].Visible = false;
+                         this.dgCodigo.Columns["Numero_Factura"].Visible = false;
+                     }
